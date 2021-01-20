@@ -1,0 +1,22 @@
+{
+  "name": "less-vars-2-json",
+  "version": "0.1.0",
+  "description": "Read variables from less file. Support import statement.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theRealZoe/less-vars-2-json.git"
+  },
+  "keywords": [
+    "less"
+  ],
+  "author": "theRealZoe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theRealZoe/less-vars-2-json/issues"
+  },
+  "homepage": "https://github.com/theRealZoe/less-vars-2-json#readme"
+}
